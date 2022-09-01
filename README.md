@@ -39,7 +39,7 @@ scripts/rename-dist.ps1
 ```
 
 ---
-*** Note ***
+***Note***
 
 After doing the above, you will have to close down everything and restart WSL again by running the following (if it's manual)
 
